@@ -1,7 +1,7 @@
 ,EU Average,EU Average,Location Point,Location Point
 ,Without OAE,With OAE,Without OAE,With OAE
 variables,,,,
-Alkalinity,,,32.0,214.0
+Alkalinity,14.0,8.0,32.0,214.0
 CO2 flux,2.22,3.63,8.03,16.3
 fCO2,27.0,18.0,,
 DIC,,,,
