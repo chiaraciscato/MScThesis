@@ -1,8 +1,8 @@
 ,Without OAE,Without OAE,With OAE,With OAE
 ,Max,Min,Max,Min
 Variables,,,,
-Alkalinity,2178,2146,3053,2839
-CO2 flux,,,,
-fCO2,,,,
-DIC,,,,
-pH,,,,
+Alkalinity,2182.0,2152.0,3036.0,2819.0
+CO2 flux,3.26,-4.91,-5.11,-21.61
+fCO2,535.0,368.0,166.0,115.0
+DIC,2020.0,1975.0,2396.0,2329.0
+pH,8.053,7.914,8.583,8.441
