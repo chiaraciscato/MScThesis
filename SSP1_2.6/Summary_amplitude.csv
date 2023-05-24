@@ -1,9 +1,8 @@
 ,European Average,European Average,Location Point,Location Point
 ,Without OAE,With OAE,Without OAE,With OAE
 variables,,,,
-Alkalinity,11.0,5.0,63.0,215.0
-CO2 flux,2.69,3.88,8.17,16.49
-fCO2,35.0,23.0,166.0,51.0
-DIC,30.0,26.0,46.0,54.0
-pH,0.027,0.017,0.139,0.143
-sst,,,11.159,11.54
+Alkalinity,13.0,6.0,44.0,354.0
+CO2 flux,4.34,6.38,9.24,28.26
+fCO2,73.0,55.0,207.0,112.0
+DIC,27.0,17.0,74.0,136.0
+pH,0.03,0.018,0.099,0.16
