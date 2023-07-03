@@ -1,17 +1,17 @@
 [thesis_report.pdf](https://github.com/chiaraciscato/oae_seasonality/files/11935867/thesis_report.pdf)
 
-## Impacts of Ocean Alkalinity Enhancement on the Seasonal Cycle of CO2 Flux and ocean pCO2 in European Waters
+## Impacts of Ocean Alkalinity Enhancement on the Seasonal Cycle of CO<sub>2</sub> Flux and ocean pCO<sub>2</sub> in European Waters
 
 
 A seasonal analysis was performed on five variables, with the objective of defining the impacts of Ocean Alkalinity Enhancementmonthly on their monthly and amplitude cycle. The variables are:
 
-- Alkalinity (mmol/m3)
+- Alkalinity (mmol/m<sup>3</sup>)
 - pH
-- Dissolved Inorganic Carbon (mmol/m3)
-- CO2 flux (mol/m2/yr)
+- Dissolved Inorganic Carbon (mmol/m<sup>3</sup>)
+- CO2 flux (mol/m<sup>2</sup>/yr)
 - Ocean pCO2 (µatm)
 
-Two reference scenarios are used: SSP1_2.6 (low warming) and SSP3_7.0 (high warming).
+Two reference scenarios are used: SSP1-2.6 (low warming) and SSP3-7.0 (high warming).
 
 The model domain is the European coasts (excluding the Mediterranean and the Baltic seas).
 
