@@ -20,12 +20,10 @@ The model domain is the European coasts (excluding the Mediterranean and the Bal
 This repository contains:
 - 'geomarcode', which includes: 
 data pre-processing;
-seasonal analysis;
+seasonal analysis for alkalinity;
 mld_seasonality.
-- MSc thesis report (Latex and PDF version [thesis_report.pdf](https://github.com/chiaraciscato/oae_seasonality/files/11935873/thesis_report.pdf)
-);
-- MSc thesis presentation (PDF version [thesis_presentation.pdf](https://github.com/chiaraciscato/oae_seasonality/files/11935875/thesis_presentation.pdf)
-).
+- MSc thesis report (Latex and PDF version);
+- MSc thesis presentation (PDF version).
 
 
 ```
