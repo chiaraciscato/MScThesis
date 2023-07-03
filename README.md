@@ -1,4 +1,4 @@
-
+[thesis_report.pdf](https://github.com/chiaraciscato/oae_seasonality/files/11935867/thesis_report.pdf)
 
 ## Impacts of Ocean Alkalinity Enhancement on the Seasonal Cycle of CO2 Flux and ocean pCO2 in European Waters
 
@@ -22,8 +22,10 @@ This repository contains:
 data pre-processing;
 seasonal analysis;
 mld_seasonality.
-- MSc thesis report (Latex and PDF version);
-- MSc thesis presentation (PDF version).
+- MSc thesis report (Latex and PDF version [thesis_report.pdf](https://github.com/chiaraciscato/oae_seasonality/files/11935873/thesis_report.pdf)
+);
+- MSc thesis presentation (PDF version [thesis_presentation.pdf](https://github.com/chiaraciscato/oae_seasonality/files/11935875/thesis_presentation.pdf)
+).
 
 
 ```
