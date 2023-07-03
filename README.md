@@ -1,5 +1,3 @@
-[thesis_report.pdf](https://github.com/chiaraciscato/oae_seasonality/files/11935867/thesis_report.pdf)
-
 ## Impacts of Ocean Alkalinity Enhancement on the Seasonal Cycle of CO<sub>2</sub> Flux and ocean pCO<sub>2</sub> in European Waters
 
 
@@ -20,7 +18,7 @@ The model domain is the European coasts (excluding the Mediterranean and the Bal
 This repository contains:
 - 'geomarcode', which includes: 
 data pre-processing;
-seasonal analysis for [alkalinity](https://github.com/chiaraciscato/oae_seasonality/tree/main/seasonal_analysis/final_scripts#:~:text=..-,alkalinity_amplitude.ipynb,-(File));
+seasonal analysis;
 mld_seasonality.
 - MSc thesis report (Latex and PDF version);
 - MSc thesis presentation (PDF version).
