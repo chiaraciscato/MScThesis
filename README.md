@@ -16,10 +16,9 @@ The model domain is the European coasts (excluding the Mediterranean and the Bal
 ### Repository content
 
 This repository contains:
-- 'geomarcode', which includes: 
-data pre-processing;
-seasonal analysis for [alkalinity](seasonal_analysis/1_alkalinity), [pH](seasonal_analysis/2_ph), [DIC](seasonal_analysis/3_dic), [ocean pCO<sub>2</sub>](seasonal_analysis/4_oceanpco2), [CO<sub>2</sub> flux](seasonal_analysis/5_co2flux);
-mld_seasonality.
+- [data pre-processing](data_processing);
+- seasonal analysis for [alkalinity](seasonal_analysis/1_alkalinity), [pH](seasonal_analysis/2_ph), [DIC](seasonal_analysis/3_dic), [ocean pCO<sub>2</sub>](seasonal_analysis/4_oceanpco2), [CO<sub>2</sub> flux](seasonal_analysis/5_co2flux);
+- seasonality in the [mixed layer](mld_seasonality) compartment.
 - MSc thesis report ([Latex](thesis_report) and [PDF version](thesis_report.pdf));
 - MSc thesis presentation ([PDF version](thesis_presentation.pdf)).
 
