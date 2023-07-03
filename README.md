@@ -21,7 +21,7 @@ data pre-processing;
 seasonal analysis;
 mld_seasonality.
 - MSc thesis report (Latex and PDF version);
-- MSc thesis presentation ([PDF version](/Users/chiaraciscato/Desktop/geomar/geomarcode/thesis_presentation.pdf)).
+- MSc thesis presentation ([PDF version](thesis_presentation.pdf)).
 
 
 ```
